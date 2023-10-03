@@ -33,6 +33,17 @@ function controlStructures(element) {
   let c = 0
   let controlStructures = 'controlStructures'
   console.log(controlStructures, controlStructures ? 'if' : 'loopar')
+  if(c >= 30){
+    console.log("C är lika med 30")
+  }
+  else {
+    console.log("C är inte 30")
+    c++
+  }
+  console.log("Denna kodsnutt gör att den kommmer att kolla om c >= 30, ifall den inte är det kommer den skriva ut 'C är inte 30' och plussa på 1 på C variabeln.")
+  for(let i = 0; i < 5; i++ ){
+      console.log("Detta är koden som körs när i > 5, den kommer fortsätta plussa på 1 på i tills i är större än fem och då körs koden.")
+  }
 }
 
 function arraysAndObjects (element) {
