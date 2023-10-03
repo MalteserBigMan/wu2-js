@@ -56,20 +56,21 @@ function controlStructures(element) {
 function arraysAndObjects (element) {
   // kod för att visa vad du lärt dig om arrays och objekt
   console.log(['arrays', {and: 'objects'}])
-  console.log("En array är en lista med variabler eller nummer, object är det som är inom måsvingar.")
+  console.log("En array är en lista med variabler, nummer, strängar eller karaktärer. Jag kan inte riktigt förklara vad ett objekt är.")
 }
 
 function domAndEvents (element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
   console.log(element, 'lyssna efter event för att ändra element')
+  event.listener
 }
 
 function domManipulation (element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'dom manipulation, ändra och lägg till element'
-  let hejhej = documentquery.selector 
+  let hejhej = document.queryselector 
   hejhej.classList.add(hej)
   console.log("Detta lägger till elementet 'hej'")
   hejhej.classList.remove(hej)
