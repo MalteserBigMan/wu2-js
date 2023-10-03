@@ -1,4 +1,3 @@
-import { build } from "vite"
 
 export function setupPractice (element) {
   // följande funktioner körs i ordning
@@ -64,9 +63,7 @@ function arraysAndObjects (element) {
 function domAndEvents (element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
-  console.log(element, 'lyssna efter event för att ändra element')
-  knapp.addeventListener('click')
-  console.log("kommer inte ihåg hur man skriver en eventlistener :C")
+  console.log("Fick inte till eventlistener :C")
 }
 
 function domManipulation (element) {

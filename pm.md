@@ -8,12 +8,12 @@ Jag har gjort en uppgift som testat alla grunderna i webbutveckling.
 
 ## Hur
 
-Jag har använt mig av det mesta, olika datatyper, operatorer, arrays, element
+Jag har använt mig av det mesta, olika datatyper, operatorer, arrays, element...
 
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
+Jag tycker att det gått bra med grundförståelsen för mycket, detta gick bra eftersom jag har lyssnat och fokuserat under lektionerna.
 
 ## Negativa erfarenheter
 
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Det som gick mindre bra var att faktiskt använda många saker, detta kan fixas genom att göra fler uppgifter och lära mig av mina misstag.
