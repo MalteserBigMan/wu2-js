@@ -24,12 +24,13 @@ function varsAndTypes(element) {
 
 function operators(element) {
   // kod för att visa vad du lärt dig om operatorer
-  console.log('operators === ', 1 === 1)
+  console.log('operators === ', 1 === 1, "operatorer är olika slags tecken som används för att sätta värden eller skapa krav, t.ex +, -, *, !=, ! !=...")
 }
 
 function controlStructures(element) {
   // kod för att visa vad du lärt dig om kontrollstrukturer
   // if och loopar
+  let c = 0
   let controlStructures = 'controlStructures'
   console.log(controlStructures, controlStructures ? 'if' : 'loopar')
 }
