@@ -62,5 +62,9 @@ function domManipulation (element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'dom manipulation, ändra och lägg till element'
-  
+  let hejhej = documentquery.selector 
+  hejhej.classList.add(hej)
+  console.log("Detta lägger till elementet 'hej'")
+  hejhej.classList.remove(hej)
+  console.log("Detta tar bort elementet 'hej'")
 }
