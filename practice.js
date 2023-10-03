@@ -25,7 +25,7 @@ function varsAndTypes(element) {
 function operators(element) {
   // kod för att visa vad du lärt dig om operatorer
   console.log('operators === ', 1 === 1, "operatorer är olika slags tecken som används för att sätta värden eller skapa krav, t.ex +, -, *, !=, ! !=...")
-  console.log("b = 1, b != 5, b*2 = 2, b + b =")
+  console.log("b = 1, b != 5, b*2 = 2, b + b = 2, b/4 = 0.25")
 }
 
 function controlStructures(element) {
