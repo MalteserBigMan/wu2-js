@@ -17,3 +17,4 @@ Jag tycker att det gått bra med grundförståelsen för mycket, detta gick bra 
 ## Negativa erfarenheter
 
 Det som gick mindre bra var att faktiskt använda många saker, detta kan fixas genom att göra fler uppgifter och lära mig av mina misstag.
+Jag måste lära mig mer om vart allt ska vara, rättare sagt vilka rader eller vart man ska lägga vissa saker.
