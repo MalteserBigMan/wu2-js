@@ -20,6 +20,12 @@ function varsAndTypes(element) {
   // kod för att visa vad du lärt dig om variabler och typer
   let varsAndTypes = 'varsAndTypes'
   console.log(varsAndTypes, typeof(varsAndTypes))
+  let f = 3 //("Tilldelar värdet 3")
+  f == 3 //("Kollar om f är like med 3")
+  f === 3 //("Kollar om f är lika med 3, fast strikt")
+  f != 4 //Säger att f inte är lika med 4
+  //Vet inte riktigt hur jag ska visa att jag kan saker om variabler, antar att du får se i senare bitar av uppgiften att jag kan.
+  console.log("Det finns många datatyper, t.ex nummer, strängar, listor(array)...")
 }
 
 function operators(element) {
