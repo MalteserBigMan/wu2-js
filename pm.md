@@ -1,14 +1,14 @@
 # PM Webbprojekt
 
-Författare och datum.
+Malte Lindkvist 2023-10-03
 
 ## Vad
 
-Här beskriver du kortfattat vad du har arbetat med.
+Jag har gjort en uppgift som testat alla grunderna i webbutveckling.
 
 ## Hur
 
-Här beskriver du hur du har arbetat med projektet. Vilka verktyg och metoder har du använt.
+Jag har använt mig av det mesta, olika datatyper, operatorer, arrays, element
 
 ## Positiva erfarenheter
 
