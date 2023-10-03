@@ -1,3 +1,5 @@
+import { build } from "vite"
+
 export function setupPractice (element) {
   // följande funktioner körs i ordning
   // se output i console.log()
@@ -63,7 +65,8 @@ function domAndEvents (element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
   console.log(element, 'lyssna efter event för att ändra element')
-  event.listener
+  knapp.addeventListener('click')
+  console.log("kommer inte ihåg hur man skriver en eventlistener :C")
 }
 
 function domManipulation (element) {
