@@ -49,6 +49,7 @@ function controlStructures(element) {
 function arraysAndObjects (element) {
   // kod för att visa vad du lärt dig om arrays och objekt
   console.log(['arrays', {and: 'objects'}])
+  console.log("En array är en lista med variabler eller nummer, object är det som är inom måsvingar.")
 }
 
 function domAndEvents (element) {
@@ -61,4 +62,5 @@ function domManipulation (element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'dom manipulation, ändra och lägg till element'
+  
 }
