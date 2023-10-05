@@ -51,6 +51,8 @@ function controlStructures(element) {
   console.log("Denna kodsnutt gör att den kommmer att kolla om c >= 30, ifall den inte är det kommer den skriva ut 'C är inte 30' och plussa på 1 på C variabeln.")
   for(let i = 0; i < 5; i++ ){
       console.log("Detta är koden som körs när i > 5, den kommer fortsätta plussa på 1 på i tills i är större än fem och då körs koden.")
+
+      //Du ville att man skulle använda variabel.forEach((b)=>{där man lägger in en array och någonting den ska göra})
   }
 }
 
